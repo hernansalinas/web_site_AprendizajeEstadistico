@@ -25,5 +25,5 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Programa del curso | [Programa 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/programa.pdf){: .btn .btn-green }| |
 |Introducción | [Introducción 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico){: .btn .btn-green }| |
-|Evaluacion | [Eval 1]https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
+|Evaluacion | [Eval 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
 
