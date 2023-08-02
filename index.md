@@ -7,7 +7,7 @@ Universidad de Antioquia"
 permalink: /
 ---
 
-# Metodos computacionales para fisicos
+# Aprendizaje estadístico para fisicos
 {: .fs-9 }
 
 Este es la web del curso de aprendizaje estadístico para físicos de la 
