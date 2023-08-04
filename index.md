@@ -27,3 +27,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Introducción | [Introducción 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico){: .btn .btn-green }| |
 |Evaluacion | [Eval 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
 
+
+
+| Python I: Funciones y pandas|  | |
+|--------|-----------|
+|Pandas A | [Mat 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_01a_python_pandas.ipynb){: .btn .btn-green }| |
