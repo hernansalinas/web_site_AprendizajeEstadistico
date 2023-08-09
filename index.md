@@ -34,3 +34,12 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Pandas A | [Mat 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_01a_python_pandas.ipynb){: .btn .btn-green }| |
 |Laboratorio | [Lab 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_01_pandas.ipynb){: .btn .btn-blue }| |
 |Pandas B | [Mat 2](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_01b_pandas.ipynb){: .btn .btn-blue }| |
+
+
+| Introducción Aprendizaje estadistico|  | |
+|--------|-----------|
+|Img | [Img 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
+
+
+
+
