@@ -38,4 +38,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
+| Introducción machine learning|  | |
+|--------|-----------|
+|1D   | [Mat 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_02_intuicion_estadistica.ipynb){: .btn .btn-green }| |
+|2D | [Mat 2](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_03_intuicion_estadistica_II.ipynb){: .btn .btn-blue }| |
+
+
+
 
