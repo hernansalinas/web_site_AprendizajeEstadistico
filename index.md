@@ -45,4 +45,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
+| Regresión lineal, multivariada |  | |
+|--------|-----------|
+|1D   | [Lab 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_03_reg_lin_grad_desc.ipynb){: .btn .btn-green }| |
+
+
 
