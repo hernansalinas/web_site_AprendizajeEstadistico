@@ -50,8 +50,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |1D   | [Lab 2](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_03_reg_lin_grad_desc.ipynb){: .btn .btn-green }| |
 |2D   | [Mat 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_05_regresion_multivariadaV2.ipynb){: .btn .btn-green }| |
 |Ecuación Normal    | [Lab 3](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_05_NormalEquations.ipynb){: .btn .btn-green }| |
-|Problema General    | [Lab 4](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_05_ABC_Modelo.ipynb
-){: .btn .btn-green }| |
+|Problema General    | [Lab 4](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_05_ABC_Modelo.ipynb){: .btn .btn-green }| |
 
 
 
