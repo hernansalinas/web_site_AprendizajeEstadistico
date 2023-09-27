@@ -54,4 +54,15 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
+| Regresión logistica |  | |
+|--------|-----------|
+|Laboratorio  y teoria| [Lab 2](
+https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_06_RegresionLogistica.ipynb){: .btn .btn-green }| |
+
+
+
+| Red neuronal |  | |
+|--------|-----------|
+|Teoria  | [teoria 2](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_09_neuronal_network.ipynb){: .btn .btn-green }| |
+|Laboratorio   | [Lab ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_07_nn_zeroV1.ipynb){: .btn .btn-green }| |
 
