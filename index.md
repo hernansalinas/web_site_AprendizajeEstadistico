@@ -69,7 +69,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 | Red neuronal convolucional |  | |
 |--------|-----------|
-|Laboratorio   | [Lab ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_17_convolution_nn.ipynb){: .btn .btn-green }| |
+|Laboratorio   | [Mat ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_17_convolution_nn.ipynb){: .btn .btn-green }| |
 |material   | [Mat ](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/Sesion_17_convolutionalNetwork.pptx){: .btn .btn-green }| |
-|Laboratorio   | [Lab ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_redes_neuronales_convolucionales){: .btn .btn-green }| |
+|Laboratorio   | [Lab ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_redes_neuronales_convolucionales.ipynb){: .btn .btn-green }| |
 
