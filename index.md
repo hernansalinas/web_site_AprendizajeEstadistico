@@ -73,3 +73,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |material   | [Mat ](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/Sesion_17_convolutionalNetwork.pptx){: .btn .btn-green }| |
 |Laboratorio   | [Lab ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_redes_neuronales_convolucionales.ipynb){: .btn .btn-green }| |
 
+
+| API |  | |
+|--------|-----------|
+|Laboratorio   | [Lab ](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_13_Despliegue_de_Api.ipynb){: .btn .btn-green }| |
+|Material   | [API ](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/tree/main/API){: .btn .btn-green }| |
