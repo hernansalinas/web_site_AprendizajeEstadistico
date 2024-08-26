@@ -20,6 +20,10 @@ Universidad de Antioquia
 
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
+| Nueva|  | |
+|--------|-----------|
+|Programa del curso | [Lab 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/programa.pdf){: .btn .btn-green }| |
+
 
 | Introduccion|  | |
 |--------|-----------|
